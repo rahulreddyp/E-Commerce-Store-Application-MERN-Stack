@@ -12,7 +12,7 @@ const Base = ({
         <div>
             <Menu/>
             <div className="container-fluid">
-                <div className="jumbotron bg-dark text.white text-center">
+                <div className="jumbotron text-center">
                     <h2 className="display-4">{title}</h2>
                     <p className="lead">{description}</p>
                 </div>
