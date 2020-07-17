@@ -1,6 +1,7 @@
 # E-Commerce web application to purchase clothing and manage the products using admin dashboard. 
 
-Built using MERN Stack - Mongo DB, Express, React.js and Node.js
+## Built using MERN Stack - Mongo DB, Express.js, React.js, Node.js
+### This project is done from the tutorials of Learn code online's Complete MERN Bootcamp
 
 ## Avalilable Scripts
 This project is broken up into 2 sub folders, all corresponding to their respective part of the MERN.
